@@ -19,7 +19,7 @@ Je suis un développeur passionné et un apprenant continu, actuellement concent
 
 | Organisation | Titre de la Certification | Date |
 | :--- | :--- | :--- |
-| **freeCodeCamp** | Scientific Computing with Python | Sept. 2025 |
-| *(À venir...)* | *AI Fundamentals (IBM)* | |
-| *(À venir...)* | *Python Essentials 1 (Cisco)* | |
+| **freeCodeCamp** | *Scientific Computing with Python* | Sept. 2025 |
+| **IBM SkillsBuild* | *AI Fundamentals* | |
+| **freeCodeCamp** | *Data Analysis with Python*| |
 
