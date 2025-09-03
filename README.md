@@ -4,7 +4,7 @@ Je suis un développeur passionné et un apprenant continu, actuellement concent
 
 ---
 
-- 🌱 **J'apprends actuellement :** Les librairies Python pour l'analyse de données (Pandas, NumPy, Matplotlib) et je complète la certification **Scientific Computing with Python** de freeCodeCamp.
+- 🌱 **J'apprends actuellement :** Les librairies Python pour l'analyse de données (Pandas, NumPy, Matplotlib)
 - 👯 **Je cherche à collaborer sur :** Des projets d'analyse de données pour débutants ou des défis de codage.
 - 📫 **Comment me contacter :** Le meilleur moyen est via mon profil [LinkedIn](https://www.linkedin.com/in/e-romaric-dedjinou-2012b6288/).
 
